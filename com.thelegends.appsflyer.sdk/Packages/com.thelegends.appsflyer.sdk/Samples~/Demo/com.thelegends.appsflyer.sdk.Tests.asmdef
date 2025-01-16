@@ -1,0 +1,16 @@
+{
+    "name": "com.thelegends.appsflyer.sdk.Demo",
+    "rootNamespace": "com.thelegends.appsflyer.sdk.Demo",
+    "references": [
+        "com.thelegends.appsflyer.sdk"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
