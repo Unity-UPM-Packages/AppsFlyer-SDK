@@ -19,14 +19,5 @@
   },
   "dependencies": {
     "com.google.external-dependency-manager": "1.2.183"
-  },
-  "scopedRegistries": [
-    {
-      "name": "TripSoft",
-      "url": "https://verdaccio.tripdev.io/",
-      "scopes": [
-        "com.google"
-      ]
-    }
-  ]
+  }
 }
